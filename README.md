@@ -4,7 +4,7 @@ An AI-powered complaint classification and intelligent business routing system b
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This application analyzes unstructured financial customer complaints and automatically:
 
@@ -20,7 +20,7 @@ The system simulates a real-world enterprise complaint management workflow.
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Financial institutions receive thousands of customer complaints daily.  
 Manual classification and routing leads to:
@@ -34,7 +34,7 @@ This system automates complaint understanding and routing using machine learning
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 - Python  
 - Scikit-learn  
@@ -47,7 +47,7 @@ This system automates complaint understanding and routing using machine learning
 
 ---
 
-## ⚙ How It Works
+## How It Works
 
 1. User enters complaint text  
 2. Text is cleaned using NLP preprocessing:
@@ -65,7 +65,7 @@ This system automates complaint understanding and routing using machine learning
 
 ---
 
-## 📊 Model Information
+## Model Information
 
 - Algorithm: Logistic Regression  
 - Feature Extraction: TF-IDF  
@@ -76,7 +76,7 @@ This system automates complaint understanding and routing using machine learning
 
 ---
 
-## 🖥 Run Locally
+## Run Locally
 
 Clone the repository:
 
@@ -93,13 +93,13 @@ streamlit run app.py
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
-Deployment Link: (To be updated after Streamlit Cloud deployment)
+Deployment Link: https://ai-complaint-intelligence-platform-vansh-aggarwal.streamlit.app/
 
 ---
 
-## 🎯 Business Use Case
+## Business Use Case
 
 This system can be integrated into:
 
@@ -112,7 +112,7 @@ It reduces manual effort and improves complaint handling efficiency.
 
 ---
 
-## ⚠ Limitations
+## Limitations
 
 - Performance decreases for very short or random inputs  
 - Unseen vocabulary may reduce confidence  
@@ -120,7 +120,7 @@ It reduces manual effort and improves complaint handling efficiency.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Vansh Aggarwal  
 B.Tech Computer Science  
