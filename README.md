@@ -80,8 +80,8 @@ This system automates complaint understanding and routing using machine learning
 
 Clone the repository:
 
-git clone https://github.com/your-username/ai-complaint-intelligence-platform.git  
-cd ai-complaint-intelligence-platform  
+git clone https://github.com/VanshAggarwal24/Ai-Complaint-Intelligence-Platform.git
+cd Ai-Complaint-Intelligence-Platform
 
 Install dependencies:
 
